@@ -1,0 +1,85 @@
+C:\Users\Cole\Desktop\C_Sharp2\GHINHandicap\bin\Debug\net8.0-windows\GHINHandicap.exe
+C:\Users\Cole\Desktop\C_Sharp2\GHINHandicap\bin\Debug\net8.0-windows\GHINHandicap.deps.json
+C:\Users\Cole\Desktop\C_Sharp2\GHINHandicap\bin\Debug\net8.0-windows\GHINHandicap.runtimeconfig.json
+C:\Users\Cole\Desktop\C_Sharp2\GHINHandicap\bin\Debug\net8.0-windows\GHINHandicap.dll
+C:\Users\Cole\Desktop\C_Sharp2\GHINHandicap\bin\Debug\net8.0-windows\GHINHandicap.pdb
+C:\Users\Cole\Desktop\C_Sharp2\GHINHandicap\obj\Debug\net8.0-windows\GHINHandicap.HDCP_Golf.resources
+C:\Users\Cole\Desktop\C_Sharp2\GHINHandicap\obj\Debug\net8.0-windows\GHINHandicap.csproj.GenerateResource.cache
+C:\Users\Cole\Desktop\C_Sharp2\GHINHandicap\obj\Debug\net8.0-windows\GHINHandicap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cole\Desktop\C_Sharp2\GHINHandicap\obj\Debug\net8.0-windows\GHINHandicap.AssemblyInfoInputs.cache
+C:\Users\Cole\Desktop\C_Sharp2\GHINHandicap\obj\Debug\net8.0-windows\GHINHandicap.AssemblyInfo.cs
+C:\Users\Cole\Desktop\C_Sharp2\GHINHandicap\obj\Debug\net8.0-windows\GHINHandicap.csproj.CoreCompileInputs.cache
+C:\Users\Cole\Desktop\C_Sharp2\GHINHandicap\obj\Debug\net8.0-windows\GHINHandicap.dll
+C:\Users\Cole\Desktop\C_Sharp2\GHINHandicap\obj\Debug\net8.0-windows\refint\GHINHandicap.dll
+C:\Users\Cole\Desktop\C_Sharp2\GHINHandicap\obj\Debug\net8.0-windows\GHINHandicap.pdb
+C:\Users\Cole\Desktop\C_Sharp2\GHINHandicap\obj\Debug\net8.0-windows\GHINHandicap.genruntimeconfig.cache
+C:\Users\Cole\Desktop\C_Sharp2\GHINHandicap\obj\Debug\net8.0-windows\ref\GHINHandicap.dll
+C:\Users\Cole\Desktop\C_Sharp2\GHINHandicap\obj\Debug\net8.0-windows\GHINHandicap.sourcelink.json
+C:\Users\Cole\Desktop\C_Sharp2\GHINHandicap - Copy\bin\Debug\net8.0-windows\GHINHandicap.exe
+C:\Users\Cole\Desktop\C_Sharp2\GHINHandicap - Copy\bin\Debug\net8.0-windows\GHINHandicap.deps.json
+C:\Users\Cole\Desktop\C_Sharp2\GHINHandicap - Copy\bin\Debug\net8.0-windows\GHINHandicap.runtimeconfig.json
+C:\Users\Cole\Desktop\C_Sharp2\GHINHandicap - Copy\bin\Debug\net8.0-windows\GHINHandicap.dll
+C:\Users\Cole\Desktop\C_Sharp2\GHINHandicap - Copy\bin\Debug\net8.0-windows\GHINHandicap.pdb
+C:\Users\Cole\Desktop\C_Sharp2\GHINHandicap - Copy\obj\Debug\net8.0-windows\GHINHandicap.HDCP_Golf.resources
+C:\Users\Cole\Desktop\C_Sharp2\GHINHandicap - Copy\obj\Debug\net8.0-windows\GHINHandicap.csproj.GenerateResource.cache
+C:\Users\Cole\Desktop\C_Sharp2\GHINHandicap - Copy\obj\Debug\net8.0-windows\GHINHandicap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cole\Desktop\C_Sharp2\GHINHandicap - Copy\obj\Debug\net8.0-windows\GHINHandicap.AssemblyInfoInputs.cache
+C:\Users\Cole\Desktop\C_Sharp2\GHINHandicap - Copy\obj\Debug\net8.0-windows\GHINHandicap.AssemblyInfo.cs
+C:\Users\Cole\Desktop\C_Sharp2\GHINHandicap - Copy\obj\Debug\net8.0-windows\GHINHandicap.csproj.CoreCompileInputs.cache
+C:\Users\Cole\Desktop\C_Sharp2\GHINHandicap - Copy\obj\Debug\net8.0-windows\GHINHandicap.sourcelink.json
+C:\Users\Cole\Desktop\C_Sharp2\GHINHandicap - Copy\obj\Debug\net8.0-windows\GHINHandicap.dll
+C:\Users\Cole\Desktop\C_Sharp2\GHINHandicap - Copy\obj\Debug\net8.0-windows\refint\GHINHandicap.dll
+C:\Users\Cole\Desktop\C_Sharp2\GHINHandicap - Copy\obj\Debug\net8.0-windows\GHINHandicap.pdb
+C:\Users\Cole\Desktop\C_Sharp2\GHINHandicap - Copy\obj\Debug\net8.0-windows\GHINHandicap.genruntimeconfig.cache
+C:\Users\Cole\Desktop\C_Sharp2\GHINHandicap - Copy\obj\Debug\net8.0-windows\ref\GHINHandicap.dll
+C:\Users\Cole\Desktop\GHINHandicap - Copy\bin\Debug\net8.0-windows\GHINHandicap.exe
+C:\Users\Cole\Desktop\GHINHandicap - Copy\bin\Debug\net8.0-windows\GHINHandicap.deps.json
+C:\Users\Cole\Desktop\GHINHandicap - Copy\bin\Debug\net8.0-windows\GHINHandicap.runtimeconfig.json
+C:\Users\Cole\Desktop\GHINHandicap - Copy\bin\Debug\net8.0-windows\GHINHandicap.dll
+C:\Users\Cole\Desktop\GHINHandicap - Copy\bin\Debug\net8.0-windows\GHINHandicap.pdb
+C:\Users\Cole\Desktop\GHINHandicap - Copy\obj\Debug\net8.0-windows\GHINHandicap.HDCP_Golf.resources
+C:\Users\Cole\Desktop\GHINHandicap - Copy\obj\Debug\net8.0-windows\GHINHandicap.csproj.GenerateResource.cache
+C:\Users\Cole\Desktop\GHINHandicap - Copy\obj\Debug\net8.0-windows\GHINHandicap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cole\Desktop\GHINHandicap - Copy\obj\Debug\net8.0-windows\GHINHandicap.AssemblyInfoInputs.cache
+C:\Users\Cole\Desktop\GHINHandicap - Copy\obj\Debug\net8.0-windows\GHINHandicap.AssemblyInfo.cs
+C:\Users\Cole\Desktop\GHINHandicap - Copy\obj\Debug\net8.0-windows\GHINHandicap.csproj.CoreCompileInputs.cache
+C:\Users\Cole\Desktop\GHINHandicap - Copy\obj\Debug\net8.0-windows\GHINHandicap.sourcelink.json
+C:\Users\Cole\Desktop\GHINHandicap - Copy\obj\Debug\net8.0-windows\GHINHandicap.dll
+C:\Users\Cole\Desktop\GHINHandicap - Copy\obj\Debug\net8.0-windows\refint\GHINHandicap.dll
+C:\Users\Cole\Desktop\GHINHandicap - Copy\obj\Debug\net8.0-windows\GHINHandicap.pdb
+C:\Users\Cole\Desktop\GHINHandicap - Copy\obj\Debug\net8.0-windows\GHINHandicap.genruntimeconfig.cache
+C:\Users\Cole\Desktop\GHINHandicap - Copy\obj\Debug\net8.0-windows\ref\GHINHandicap.dll
+\\Mac\Home\Desktop\GHINHandicap - Copy\bin\Debug\net8.0-windows\GHINHandicap.exe
+\\Mac\Home\Desktop\GHINHandicap - Copy\bin\Debug\net8.0-windows\GHINHandicap.deps.json
+\\Mac\Home\Desktop\GHINHandicap - Copy\bin\Debug\net8.0-windows\GHINHandicap.runtimeconfig.json
+\\Mac\Home\Desktop\GHINHandicap - Copy\bin\Debug\net8.0-windows\GHINHandicap.dll
+\\Mac\Home\Desktop\GHINHandicap - Copy\bin\Debug\net8.0-windows\GHINHandicap.pdb
+\\Mac\Home\Desktop\GHINHandicap - Copy\obj\Debug\net8.0-windows\GHINHandicap.HDCP_Golf.resources
+\\Mac\Home\Desktop\GHINHandicap - Copy\obj\Debug\net8.0-windows\GHINHandicap.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\GHINHandicap - Copy\obj\Debug\net8.0-windows\GHINHandicap.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\GHINHandicap - Copy\obj\Debug\net8.0-windows\GHINHandicap.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\GHINHandicap - Copy\obj\Debug\net8.0-windows\GHINHandicap.AssemblyInfo.cs
+\\Mac\Home\Desktop\GHINHandicap - Copy\obj\Debug\net8.0-windows\GHINHandicap.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\GHINHandicap - Copy\obj\Debug\net8.0-windows\GHINHandicap.sourcelink.json
+\\Mac\Home\Desktop\GHINHandicap - Copy\obj\Debug\net8.0-windows\GHINHandicap.dll
+\\Mac\Home\Desktop\GHINHandicap - Copy\obj\Debug\net8.0-windows\refint\GHINHandicap.dll
+\\Mac\Home\Desktop\GHINHandicap - Copy\obj\Debug\net8.0-windows\GHINHandicap.pdb
+\\Mac\Home\Desktop\GHINHandicap - Copy\obj\Debug\net8.0-windows\GHINHandicap.genruntimeconfig.cache
+\\Mac\Home\Desktop\GHINHandicap - Copy\obj\Debug\net8.0-windows\ref\GHINHandicap.dll
+\\Mac\Home\Desktop\HandicapCalculatorUSGA\bin\Debug\net8.0-windows\GHINHandicap.exe
+\\Mac\Home\Desktop\HandicapCalculatorUSGA\bin\Debug\net8.0-windows\GHINHandicap.deps.json
+\\Mac\Home\Desktop\HandicapCalculatorUSGA\bin\Debug\net8.0-windows\GHINHandicap.runtimeconfig.json
+\\Mac\Home\Desktop\HandicapCalculatorUSGA\bin\Debug\net8.0-windows\GHINHandicap.dll
+\\Mac\Home\Desktop\HandicapCalculatorUSGA\bin\Debug\net8.0-windows\GHINHandicap.pdb
+\\Mac\Home\Desktop\HandicapCalculatorUSGA\obj\Debug\net8.0-windows\GHINHandicap.HDCP_Golf.resources
+\\Mac\Home\Desktop\HandicapCalculatorUSGA\obj\Debug\net8.0-windows\GHINHandicap.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\HandicapCalculatorUSGA\obj\Debug\net8.0-windows\GHINHandicap.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\HandicapCalculatorUSGA\obj\Debug\net8.0-windows\GHINHandicap.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\HandicapCalculatorUSGA\obj\Debug\net8.0-windows\GHINHandicap.AssemblyInfo.cs
+\\Mac\Home\Desktop\HandicapCalculatorUSGA\obj\Debug\net8.0-windows\GHINHandicap.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\HandicapCalculatorUSGA\obj\Debug\net8.0-windows\GHINHandicap.sourcelink.json
+\\Mac\Home\Desktop\HandicapCalculatorUSGA\obj\Debug\net8.0-windows\GHINHandicap.dll
+\\Mac\Home\Desktop\HandicapCalculatorUSGA\obj\Debug\net8.0-windows\refint\GHINHandicap.dll
+\\Mac\Home\Desktop\HandicapCalculatorUSGA\obj\Debug\net8.0-windows\GHINHandicap.pdb
+\\Mac\Home\Desktop\HandicapCalculatorUSGA\obj\Debug\net8.0-windows\GHINHandicap.genruntimeconfig.cache
+\\Mac\Home\Desktop\HandicapCalculatorUSGA\obj\Debug\net8.0-windows\ref\GHINHandicap.dll
