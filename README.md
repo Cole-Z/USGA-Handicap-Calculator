@@ -11,7 +11,8 @@ Player data and course data is stored in the /bin dir of the project. Everytime 
 
 ## Functionality
 
-USGA Calculation Mehod: "Your Handicap Index is a portable number that represents your demonstrated golfing ability. It is based on your past scores relative to the difficulty of the course and tees played, as well as the playing conditions during each one of those rounds."
+USGA Calculation Mehod: "Your Handicap Index is a portable number that represents your demonstrated golfing ability. It is based on your past scores relative to the difficulty of the course and tees played, as well as the playing conditions during each one of those rounds.
+To calculate your Handicap Index, your 8 best Score Differentials from your most recent 20 scores"
 
 In code: 
 
