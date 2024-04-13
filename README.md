@@ -13,11 +13,11 @@ Player data and course data is stored in the /bin dir of the project. Everytime 
 
 Each player will need 20 rounds in order for the index to be calculated. Formula is based off of the USGA's handicap index equation.
 
-![image](https://github.com/Cole-Z/CIS262_Final-/assets/98670265/555b04f6-a144-434f-a147-c612ff810eb7)
+![image](https://github.com/Cole-Z/CIS262_Final-/assets/98670265/99191db1-9136-4702-9ece-28e27b2476f2)
 
 If a player does not meet the 20 round requirement, then a messagebox will display the issue to the user.
 
-![image](https://github.com/Cole-Z/CIS262_Final-/assets/98670265/efa330d2-4df5-4372-96f2-f2c4cc79e157)
+![image](https://github.com/Cole-Z/CIS262_Final-/assets/98670265/ab9b9ae0-b225-4545-a587-cd7b11c8d146)
 
 ## About
 
