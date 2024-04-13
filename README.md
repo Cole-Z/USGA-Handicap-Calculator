@@ -11,6 +11,23 @@ Player data and course data is stored in the /bin dir of the project. Everytime 
 
 ## Functionality
 
+USGA Calculation Mehod: "Your Handicap Index is a portable number that represents your demonstrated golfing ability. It is based on your past scores relative to the difficulty of the course and tees played, as well as the playing conditions during each one of those rounds."
+
+In code: 
+
+Calculating player differential based on the course rating and slope
+
+```
+round/differential = (score - courseRating) * 113 / slopeRating;
+
+```
+Calculating handicap index based on the players differential/round list
+```
+Math.Round(handicapIndexSum / 8, 1);
+```
+
+To calculate your Handicap Index, your 8 best Score Differentials from your most recent 20 scores are averaged
+
 Each player will need 20 rounds in order for the index to be calculated. Formula is based off of the USGA's handicap index equation.
 
 ![image](https://github.com/Cole-Z/CIS262_Final-/assets/98670265/99191db1-9136-4702-9ece-28e27b2476f2)
