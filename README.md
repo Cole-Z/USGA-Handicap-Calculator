@@ -37,6 +37,16 @@ If a player does not meet the 20 round requirement, then a messagebox will displ
 
 ![image](https://github.com/Cole-Z/CIS262_Final-/assets/98670265/ab9b9ae0-b225-4545-a587-cd7b11c8d146)
 
+Once a user reaches 20 rounds, then the index will be automatically calculated once 20 differentials are in the player list.
+
+Less than 20 Rounds:
+
+![image](https://github.com/Cole-Z/USGA-Handicap-Calculator/assets/98670265/ecdd8401-07ea-4378-8dc6-8c0c36b3174a)
+
+Requirement met at 20 Rounds:
+
+![image](https://github.com/Cole-Z/USGA-Handicap-Calculator/assets/98670265/1486635b-d670-461e-b58e-57fa02c139a2)
+
 ## About
 
 I used to be an assistant golf pro, and a common issue I ran into with members or existing players was that some did not have a handicap calculated and in order to compete in some tournaments, players must have a handicap index.
